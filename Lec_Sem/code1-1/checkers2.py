@@ -2,7 +2,7 @@ import subprocess
 import string
 
 
-def checkout(cmd, text, strong=False):
+def checkout2(cmd, text, strong=False):
     result = subprocess.run(cmd, shell=True, stdout=subprocess.PIPE, encoding='utf-8')
     if strong:
         for c in string.punctuation:
@@ -18,3 +18,6 @@ def checkout(cmd, text, strong=False):
         else:
             return False
 
+
+def checkout2():
+    return None
