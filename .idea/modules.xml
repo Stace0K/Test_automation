@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Test_automation.iml" filepath="$PROJECT_DIR$/.idea/Test_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test_automation_console.iml" filepath="$PROJECT_DIR$/.idea/Test_automation_console.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lec_Sem/code1-1/.idea/code1-1.iml" filepath="$PROJECT_DIR$/Lec_Sem/code1-1/.idea/code1-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lec_Sem/code1-2/.idea/code1-2.iml" filepath="$PROJECT_DIR$/Lec_Sem/code1-2/.idea/code1-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lec_Sem/code1-3/.idea/code1-3.iml" filepath="$PROJECT_DIR$/Lec_Sem/code1-3/.idea/code1-3.iml" />
