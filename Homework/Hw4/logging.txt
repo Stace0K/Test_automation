@@ -1,0 +1,16 @@
+июл 24 14:40:17 anko sshd[29274]: Accepted password for ak from 127.0.0.1 port 35782 ssh2
+июл 24 14:40:17 anko sshd[29274]: pam_unix(sshd:session): session opened for user ak(uid=1001) by (uid=0)
+июл 24 14:40:17 anko systemd-logind[571]: New session 482 of user ak.
+июл 24 14:40:17 anko systemd[1]: Started Session 482 of User ak.
+июл 24 14:40:17 anko sshd[29274]: pam_unix(sshd:session): session closed for user ak
+июл 24 14:40:17 anko systemd-logind[571]: Session 482 logged out. Waiting for processes to exit.
+июл 24 14:40:17 anko systemd[1]: session-482.scope: Deactivated successfully.
+июл 24 14:40:17 anko systemd-logind[571]: Removed session 482.
+июл 24 14:40:17 anko sshd[29318]: Accepted password for ak from 127.0.0.1 port 35792 ssh2
+июл 24 14:40:17 anko sshd[29318]: pam_unix(sshd:session): session opened for user ak(uid=1001) by (uid=0)
+июл 24 14:40:17 anko systemd-logind[571]: New session 483 of user ak.
+июл 24 14:40:17 anko systemd[1]: Started Session 483 of User ak.
+июл 24 14:40:17 anko sshd[29318]: pam_unix(sshd:session): session closed for user ak
+июл 24 14:40:17 anko systemd[1]: session-483.scope: Deactivated successfully.
+июл 24 14:40:17 anko systemd-logind[571]: Session 483 logged out. Waiting for processes to exit.
+июл 24 14:40:17 anko systemd-logind[571]: Removed session 483.

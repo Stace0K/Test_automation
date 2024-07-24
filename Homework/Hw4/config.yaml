@@ -1,0 +1,11 @@
+folder_in: "/home/ak/tst"
+folder_out: "/home/ak/out"
+folder_ext: "/home/ak/folder1"
+folder_ext2: "/home/ak/folder2"
+count: 3
+bs: 1M
+type: 7z
+host: 0.0.0.0
+user: ak
+passwd: "4444"
+pack_name: p7zip-full
